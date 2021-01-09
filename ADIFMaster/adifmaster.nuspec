@@ -38,7 +38,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <authors>DXShell.com, UU0JC</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://www.dxshell.com/adif-master.html</projectUrl>
-    <iconUrl>https://cdn.rawgit.com/ChocolateyPackages/master/icons/adif-master.png</iconUrl>
+    <iconUrl>https://ghcdn.rawgit.org/bmearnhardt/ChocolateyPackages/main/icons/adif-master.png</iconUrl>
     <!-- <copyright>Year Software Vendor</copyright> -->
     <!-- If there is a license Url available, it is required for the community feed -->
     <!-- <licenseUrl>Software License Location __REMOVE_OR_FILL_OUT__</licenseUrl>
